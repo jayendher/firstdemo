@@ -1,2 +1,4 @@
 # firstdemo
- desrimination of git and github
+ demonstration of git and github
+
+ we understood the git and github and various processes related to that.
